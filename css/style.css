@@ -52,3 +52,30 @@ body {
     margin-bottom: 20px;
 }
 
+.contact-header {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+}
+.contact-title {
+    margin: 0;
+}
+.contact-content {
+    margin-top: 20px;
+}
+
+.certificates-header {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+}
+.certificates-title {
+    margin: 0;
+}
+.certificates-content {
+    margin-top: 20px;
+}
+.certificate-card {
+    margin-bottom: 20px;
+}
+
