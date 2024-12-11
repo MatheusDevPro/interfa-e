@@ -64,6 +64,11 @@ body {
     margin-top: 20px;
 }
 
+.download-cv {
+    margin-top: 20px;
+    text-align: center;
+}
+
 .certificates-header {
     background-color: #343a40;
     color: white;
