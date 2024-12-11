@@ -37,3 +37,18 @@ body {
     margin-top: 20px;
 }
 
+.academic-header {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+}
+.academic-title {
+    margin: 0;
+}
+.academic-content {
+    margin-top: 20px;
+}
+.education-card {
+    margin-bottom: 20px;
+}
+
